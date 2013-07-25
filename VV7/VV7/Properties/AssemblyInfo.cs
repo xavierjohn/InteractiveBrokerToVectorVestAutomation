@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VV7 Updater")]
+[assembly: AssemblyTitle("VV7 Automater")]
 [assembly: AssemblyDescription("Automate VV7 data entry")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("CWizSoftware")]
 [assembly: AssemblyProduct("VV7")]
-[assembly: AssemblyCopyright("Copyright © XBM 2011")]
+[assembly: AssemblyCopyright("Make it better and share it")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
