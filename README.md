@@ -3,7 +3,8 @@ InteractiveBrokerToVectorVestAutomation
 
 Interactive Broker To VectorVest Automation
 
-Helps automate trade entry from interactive broker trade window to VectorVest 7
+Helps automate trade entry from interactive broker trade window to VectorVest 7.
+This app has saved me several hours of my life from the manual data entry I used to make before.
 
 The tool reads a text file located at
 C:\VV\Trade.txt
