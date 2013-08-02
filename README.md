@@ -10,7 +10,7 @@ The tool reads a text file located at
 C:\VV\Trade.txt
 
 <pre>
-<Ignored>	<Trade Type>	<Symbol>	<Trade Date>	<Quantity>	<Price>	<Commission>
+[Ignored]	[Trade Type]	[Symbol]	[Trade Date]	[Quantity]	[Price]	[Commission]
 </pre>
 Trade date does not work on VV7 since it is painful to automate clicking the calendar control. It works for my VV6 automation tool.
 
