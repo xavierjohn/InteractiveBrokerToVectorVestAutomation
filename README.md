@@ -9,6 +9,11 @@ This app has saved me several hours of my life from the manual data entry I used
 The tool reads a text file located at
 C:\VV\Trade.txt
 
+<pre>
+<Ignored>	<Trade Type>	<Symbol>	<Trade Date>	<Quantity>	<Price>	<Commission>
+</pre>
+Trade date does not work on VV7 since it is painful to automate clicking the calendar control. It works for my VV6 automation tool.
+
 Which has to be in the format
 <pre>
 	SLD	LFVN	08:21:32	1,515	2.49	7.95	SMART	Stock	USD	false	JBEL	-222.48	null
