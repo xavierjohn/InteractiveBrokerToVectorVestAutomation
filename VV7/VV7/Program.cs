@@ -199,7 +199,7 @@ namespace VV7
                     symbolComboInstance.SetFocus();
                     expandPattern = (ExpandCollapsePattern)symbolComboInstance.GetCurrentPattern(ExpandCollapsePattern.Pattern);
                     expandPattern.Expand();
-                    Thread.Sleep(100);
+                    Thread.Sleep(500);
                     cbItems = symbolComboInstance.FindAll(TreeScope.Descendants, new PropertyCondition(
                                                                                          AutomationElement.ControlTypeProperty,
                                                                                          ControlType.ListItem));
@@ -215,6 +215,11 @@ namespace VV7
                                 itemToSelect = item;
                                 break;
                             }
+                        }
+                        if (itemToSelect == null)
+                        {
+                            Console.WriteLine(trade.Symbol + " not found");
+                            return;
                         }
                         SelectComboBox(itemToSelect);
 
