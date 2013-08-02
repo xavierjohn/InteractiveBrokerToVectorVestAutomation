@@ -18,9 +18,9 @@ Which has to be in the format
 <pre>
 	SLD	LFVN	08:21:32	1,515	2.49	7.95	SMART	Stock	USD	false	JBEL	-222.48	null
 	SLD	ALSK	08:24:08	1,316	2.54	2.17	ISLAND	Stock	USD	false	JBEL	-649.12	null
-	SLD	LEE	08:24:11	200	2.91	0.45	NYSE	Stock	USD	false	JBEL	91.11	null
-+	SLD	SNV	09:23:25	1,299	3.390	2.94	NYSE	Stock	USD	false	JBEL	409.88	null
-+	SLD	RAD	09:50:26	1,418	2.890	3.20	NYSE	Stock	USD	false	JBEL	107.12	null
+	SLD	LEE		08:24:11	200		2.91	0.45	NYSE	Stock	USD	false	JBEL	91.11	null
++	SLD	SNV		09:23:25	1,299	3.390	2.94	NYSE	Stock	USD	false	JBEL	409.88	null
++	SLD	RAD		09:50:26	1,418	2.890	3.20	NYSE	Stock	USD	false	JBEL	107.12	null
 +	SLD	HILL	09:50:46	1,444	2.800	2.39	ISLAND	Stock	USD	false	JBEL	53.06	null
 </pre>
 
